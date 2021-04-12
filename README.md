@@ -50,5 +50,5 @@ My technology stack:
 <p align="center"> 
   <br>
   访问者数量<br><br>
-  <img src="https://counter-bingo.glitch.me/count.svg" />
+  <img src="https://counter-bingo.glitch.me/count.svg?user=jiangjihui" />
 </p>
