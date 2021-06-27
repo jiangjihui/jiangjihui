@@ -1,4 +1,8 @@
 ## Hi there, I’m [jiangjihui](https://jiangjihui.github.io/blog/) 👋
+
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jiangjihui.readme">
+</p>
  
 My technology stack:  
 
@@ -36,9 +40,6 @@ My technology stack:
 [![](https://img.shields.io/badge/-Docker-269539?style=flat-square&logo=docker&logoColor=ffffff)]()
 
 
-- 🤔 I’m looking for help with Java development.
-- 💬 Ask me about Anything you want~
-- 📫 Reach me: jiangjihui@foxmail.com
 - 😄 Pronouns: jiangjihui
 - ⚡ Fun fact: Photography, travel etc.
 
