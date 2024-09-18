@@ -4,7 +4,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jiangjihui.readme">
 </p>
 
-[My Online Note](https://jiangjihui.github.io/docsify)
+<p>
+我的笔记 [My Online Note](https://jiangjihui.github.io/docsify)
+</p>
 
 My technology stack:  
 
